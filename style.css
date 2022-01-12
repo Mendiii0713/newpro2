@@ -84,3 +84,49 @@
     font-size: 10px;
     width: 30vw;
 }
+/* Section three */
+.custom-section3{
+    height: 100vh;
+}
+.custom-row-section3{
+    height: 100vh;
+}
+.custom-section3-img{
+    background-image: url("./images/desktop/image-stand-out.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.secton3-main-content{
+    height: 100vh;
+}
+.secton3-content{
+    height: 100vh;
+    width: 85vh;
+    margin: 100px auto;
+}
+/* Section four */
+.custom-section4{
+    height: auto;
+}
+.custom-row-section4{
+    height: auto;
+}
+.custom-img-section4{
+    background-image: url("./images/desktop/image-graphic-design.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    min-height: auto;
+
+}
+.custom-img2-section4{
+    background-image: url("./images/desktop/image-photography.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    min-height: auto;
+
+}
+.section4-content{
+    height: auto;
+    width: 70vh;
+    margin: 320px auto;
+}
